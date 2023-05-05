@@ -1,0 +1,15 @@
+{
+    "name": "Lojiq",
+    "version": "1.0.0",
+    "description": "Lojiq is a simple tool to access all the useful logical operators in one place.",
+    "author": "Cossu Arnaud",
+    "manifest_version": 3,
+    "icons": {
+        "48": "logiq1648.png",
+        "128": "logo128.png"
+    },
+    "action": {
+        "default_title": "Lojiq",
+        "default_popup": "index.html"
+    }
+}

@@ -1,0 +1,52 @@
+.operator {
+    display: flex;
+    align-items: center;
+    margin-top: 0.7vh;
+    margin-bottom: 0.7vh;
+    width: 100%;
+    justify-content: center;
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+.confirmation-message{
+    color: white;
+    margin-left: 1vw;
+    font-size: 1em;
+}
+
+.error-message{
+    color: red;
+    margin-left: 1vw;
+    font-size: 1em;
+}
+ 
+.operator p {
+    margin: 0;
+    padding-right: 10px;
+    color: white;
+    font-size: 2em;
+}
+
+body{
+    background-color: #0D2438;
+}
+
+.copyBtn{
+    border-radius: 3em;
+    border: none;
+    background-color: #1E3851;
+    color: #ffffff;
+    font-size: 2em;
+    padding: 0.2em 0.7em;
+    cursor: pointer;
+}
+
+.operatorContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    overflow: hidden;
+}
